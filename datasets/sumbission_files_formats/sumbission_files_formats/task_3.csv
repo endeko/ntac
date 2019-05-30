@@ -1,0 +1,1 @@
+﻿ip_addr,amount_of_total_traffic, protocol, amount_of_traffic_for_specific_protocol, source_port,amount_for_spec_source_port, destination_port, amount_for_spec_destination_port
